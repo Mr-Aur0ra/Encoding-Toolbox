@@ -4,11 +4,11 @@ The Encoding Toolbox Sublime Text Plugin is a versatile plugin that provides eas
 
 There are several reasons why I decided to create the Encoding Toolbox Sublime Text Plugin:
 
-(1)**Lack of Suitable Existing Plugins**: Despite searching through Package Control for plugins with encoding and decoding features, I couldn't find one that suited my needs perfectly. While there may be plugins with similar functionalities, they might be difficult to discover amidst the vast array of plugins available on the Sublime Text Package Control.
+**(1)Lack of Suitable Existing Plugins**: Despite searching through Package Control for plugins with encoding and decoding features, I couldn't find one that suited my needs perfectly. While there may be plugins with similar functionalities, they might be difficult to discover amidst the vast array of plugins available on the Sublime Text Package Control.
 
-(2)**Convenience and Efficiency**: I often encounter encoded data while working on various projects. Instead of relying on online tools or separate applications to decode this data, I wanted a solution that allowed me to perform encoding and decoding directly within Sublime Text. Integrating these features into my text editor offers convenience and saves time by eliminating the need to switch between different tools or open web browsers.
+**(2)Convenience and Efficiency**: I often encounter encoded data while working on various projects. Instead of relying on online tools or separate applications to decode this data, I wanted a solution that allowed me to perform encoding and decoding directly within Sublime Text. Integrating these features into my text editor offers convenience and saves time by eliminating the need to switch between different tools or open web browsers.
 
-(3)**Inconvenient decoding with local tools**: Although I could use Python locally to decode data, it often involves repetitive steps like opening the terminal, importing modules, defining strings, and decoding them. With this plugin, I can now quickly decode selected text right within Sublime Text without the hassle of switching between applications.
+**(3)Inconvenient decoding with local tools**: Although I could use Python locally to decode data, it often involves repetitive steps like opening the terminal, importing modules, defining strings, and decoding them. With this plugin, I can now quickly decode selected text right within Sublime Text without the hassle of switching between applications.
 
 ## Features
 
